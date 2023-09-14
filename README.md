@@ -5,7 +5,6 @@
 * KD Trees
 * Quad Trees
 * Bucket Trees
-* Knn Trees
 
 ## Implementation
 
@@ -124,4 +123,4 @@ In this section, we extract key insights from our testing data and confirm our e
 - **Bucket KNN and Data Distribution**: Bucket KNN is sensitive to data distribution. Clustering around the mean (Gaussian distribution) increases query times, suggesting limitations with highly clustered data.
 - **Outliers**: Some experiments yielded outliers in query times, attributed to factors like random point distribution and query nature.
 
-For detailed visualizations and metrics, please refer to the Report_Analysis PDF  file in the repository. 
+For detailed visualizations and metrics, please refer to the [Report_Analysis](https://github.com/gloriadukuzeyesu/SpatialDataStructuresAnalysis/blob/main/Report_Analysis.pdf) file in the repository. 

@@ -125,10 +125,6 @@ In this section, we extract key insights from our testing data and confirm our e
 
 For detailed visualizations and metrics, please refer to the [Report_Analysis](https://github.com/gloriadukuzeyesu/SpatialDataStructuresAnalysis/blob/main/Report_Analysis.pdf) file in the repository. 
 
+![Screenshot 2023-09-13 at 9.11.04 PM](README/compareDataStructures.png)
 
-
-![Screenshot 2023-09-13 at 9.11.04 PM](README/Screenshot%202023-09-13%20at%209.11.04%20PM.png)
-
-
-
-![Screenshot 2023-09-13 at 9.11.04 PM](README/Screenshot%202023-09-13%20at%209.11.04%20PM-4661110.png)
+![Screenshot 2023-09-13 at 9.11.44 PM](README/BigO.png)
